@@ -1,0 +1,42 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "employeeName": "Debbie Brennan",
+      "departmentId": 1,
+      "computerId": 2
+    },
+    {
+      "id": 2,
+      "employeeName": "Deborah Kyle",
+      "departmentId": 2,
+      "computerId": 1
+    },
+    {
+      "id": 3,
+      "employeeName": "Abram Laverne",
+      "departmentId": 2,
+      "computerId": 1
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "department": "Information Technology"
+    },
+    {
+      "id": 2,
+      "department": "Software Engineering"
+    }
+  ],
+  "computers": [
+    {
+      "id": 1,
+      "computer": "Apple MacBook Pro"
+    },
+    {
+      "id": 2,
+      "computer": "Lenovo ThinkPad"
+    }
+  ]
+}
